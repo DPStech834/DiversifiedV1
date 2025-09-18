@@ -115,7 +115,6 @@ const Careers: React.FC = () => {
                     : "bg-primary-900/30 border border-primary-700 text-primary-100"
                 }`}>
                   {result === "Form Submitted Successfully" 
-                    ? "Thank you for your application! We'll review your information and contact you if there's a good fit for our team."
                     ? "Thank you! We'll review your application and contact you if there's a good fit."
                     : result}
                 </div>
