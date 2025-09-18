@@ -34,10 +34,10 @@ const BuilderPartnerships: React.FC = () => {
               <span className="text-primary-500">Partnerships</span>
             </h1>
             <p className="text-lg sm:text-xl font-semibold text-primary-400 mb-3 sm:mb-4 px-4 sm:px-0">
-              Trusted by Leading Custom and Production Builders
+              Trusted by Leading Builders
             </p>
             <p className="text-gray-300 text-base sm:text-lg max-w-3xl mx-auto px-4 sm:px-0">
-              Partner with a plumbing solution designed for production efficiency. Diversified Plumbing Services delivers reliable, professional plumbing solutions that keep your projects on schedule and within budget. We specialize in working with builders to deliver quality results every time.
+              Partner with plumbing solutions designed for efficiency. We deliver reliable, professional solutions that keep projects on schedule and within budget.
             </p>
           </div>
         </ScrollReveal>
@@ -59,7 +59,7 @@ const BuilderPartnerships: React.FC = () => {
                 <CheckCircle className="w-7 h-7 sm:w-8 sm:h-8 text-white" />
               </div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 font-heading">Proven Track Record</h3>
-              <p className="text-gray-300 text-sm sm:text-base">Over 15 years of successful partnerships with builders across the DFW Metroplex, delivering quality results on time.</p>
+              <p className="text-gray-300 text-sm sm:text-base">15+ years of successful DFW builder partnerships, delivering quality results on time.</p>
             </div>
           </ScrollReveal>
           
@@ -69,7 +69,7 @@ const BuilderPartnerships: React.FC = () => {
                 <Building2 className="w-7 h-7 sm:w-8 sm:h-8 text-white" />
               </div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 font-heading">Custom & Production Expertise</h3>
-              <p className="text-gray-300 text-sm sm:text-base">Specialized experience in both custom homes and production builds, adapting to your specific project needs.</p>
+              <p className="text-gray-300 text-sm sm:text-base">Expert in custom homes and production builds, adapting to your project needs.</p>
             </div>
           </ScrollReveal>
           
@@ -79,7 +79,7 @@ const BuilderPartnerships: React.FC = () => {
                 <Calendar className="w-7 h-7 sm:w-8 sm:h-8 text-white" />
               </div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 font-heading">Reliable Scheduling</h3>
-              <p className="text-gray-300 text-sm sm:text-base">Dependable project timelines and proactive communication to keep your builds on track.</p>
+              <p className="text-gray-300 text-sm sm:text-base">Dependable timelines and proactive communication to keep builds on track.</p>
             </div>
           </ScrollReveal>
           
@@ -99,7 +99,7 @@ const BuilderPartnerships: React.FC = () => {
                 <Award className="w-7 h-7 sm:w-8 sm:h-8 text-white" />
               </div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 font-heading">Licensed & Insured</h3>
-              <p className="text-gray-300 text-sm sm:text-base">Fully licensed Master Plumber (M24068) with comprehensive insurance coverage for your peace of mind.</p>
+              <p className="text-gray-300 text-sm sm:text-base">Licensed Master Plumber (M24068) with comprehensive insurance for your peace of mind.</p>
             </div>
           </ScrollReveal>
           
@@ -109,7 +109,7 @@ const BuilderPartnerships: React.FC = () => {
                 <Handshake className="w-7 h-7 sm:w-8 sm:h-8 text-white" />
               </div>
               <h3 className="text-lg sm:text-xl font-semibold mb-2 font-heading">Competitive Pricing</h3>
-              <p className="text-gray-300 text-sm sm:text-base">Fair, transparent pricing with volume discounts and flexible payment terms for established partners.</p>
+              <p className="text-gray-300 text-sm sm:text-base">Fair, transparent pricing with volume discounts and flexible payment terms.</p>
             </div>
           </ScrollReveal>
         </div>
@@ -147,7 +147,7 @@ const BuilderPartnerships: React.FC = () => {
                     <div className="relative z-10">
                       <h3 className="text-lg sm:text-2xl font-bold mb-3 sm:mb-4 font-heading text-white group-hover:text-primary-300 transition-colors duration-300">Initial Consultation</h3>
                       <div className="w-12 sm:w-16 h-1 bg-gradient-to-r from-primary-500 to-primary-700 mx-auto mb-3 sm:mb-4 rounded-full"></div>
-                      <p className="text-gray-300 leading-relaxed text-sm sm:text-base">We discuss your project needs, timelines, and partnership expectations in detail.</p>
+                      <p className="text-gray-300 leading-relaxed text-sm sm:text-base">We discuss project needs, timelines, and partnership expectations.</p>
                     </div>
                   </div>
                   
@@ -173,7 +173,7 @@ const BuilderPartnerships: React.FC = () => {
                     <div className="relative z-10">
                       <h3 className="text-lg sm:text-2xl font-bold mb-3 sm:mb-4 font-heading text-white group-hover:text-blue-300 transition-colors duration-300">Custom Proposal</h3>
                       <div className="w-12 sm:w-16 h-1 bg-gradient-to-r from-blue-500 to-blue-700 mx-auto mb-3 sm:mb-4 rounded-full"></div>
-                      <p className="text-gray-300 leading-relaxed text-sm sm:text-base">We create a tailored partnership proposal with pricing and service agreements.</p>
+                      <p className="text-gray-300 leading-relaxed text-sm sm:text-base">We create tailored partnership proposals with pricing and service agreements.</p>
                     </div>
                   </div>
                   
@@ -224,8 +224,7 @@ const BuilderPartnerships: React.FC = () => {
               
               <h3 className="text-2xl sm:text-3xl font-semibold font-heading mb-4">Ready to Partner with Us?</h3>
               <p className="text-gray-300 text-base sm:text-lg mb-6 sm:mb-8 max-w-2xl mx-auto">
-                Join our network of successful builder partnerships and experience the Diversified difference. 
-                Ask to speak with Ashley Collins or Chris Cyphers.
+                Join our network of successful builder partnerships. Ask to speak with Ashley Collins or Chris Cyphers.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">

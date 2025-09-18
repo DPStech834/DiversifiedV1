@@ -62,7 +62,7 @@ const Footer: React.FC<FooterProps> = ({ onServiceClick }) => {
           <div>
             <Logo variant="footer" />
             <p className="text-gray-400 mt-4 mb-4 sm:mb-6 text-sm sm:text-base leading-relaxed">
-              New Construction Areas: Argyle, Azle, Bedford, Blue Mound, Colleyville, Coppell, Decatur, Denton, Double Oak, Euless, Flower Mound, Fort Worth, Grapevine, Haltom City, Haslet, Irving, Justin, Keller, Lake Worth, Mansfield, Newark, North Lake, North Richland Hills, Richland Hills, Roanoke, Saginaw, Shady Shores, Southlake, Trophy Club, Watauga, Westlake, Westover Hills, Westworth Village, White Settlement, Highland Village, and all of the growing North Fort Worth/Tarrant County areas
+              Service Areas: Argyle, Azle, Bedford, Blue Mound, Colleyville, Coppell, Decatur, Denton, Double Oak, Euless, Flower Mound, Fort Worth, Grapevine, Haltom City, Haslet, Irving, Justin, Keller, Lake Worth, Mansfield, Newark, North Lake, North Richland Hills, Richland Hills, Roanoke, Saginaw, Shady Shores, Southlake, Trophy Club, Watauga, Westlake, Westover Hills, Westworth Village, White Settlement, Highland Village, and growing North Fort Worth/Tarrant County areas
             </p>
            <p className="text-primary-500 font-semibold text-sm sm:text-base">Responsible Master Plumber License M24068</p>
           </div>

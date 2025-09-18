@@ -9,18 +9,21 @@ const teamMembers = [
     name: "Chris Cyphers",
     role: "Responsible Master Plumber",
     description: "As the Vice President and Responsible Master Plumber at Diversified Plumbing Services, Chris brings 40 years of dedicated experience to both residential and commercial projects. His profound expertise and leadership drive our commitment to quality craftsmanship and ensure every project reflects the superior standards our clients expect and deserve.",
+    description: "VP and Responsible Master Plumber with 40 years of experience in residential and commercial projects. Chris's expertise and leadership drive our commitment to quality craftsmanship and superior standards.",
     photo: "/assets/chrispic.jpeg"
   },
   {
     name: "Ashley Collins",
     role: "Business & Relations Director",
     description: "As Business & Relations Director, Ashley bridges the gap between our office, field crews, and builder partners, fostering strong relationships and ensuring smooth project delivery. She expertly manages the entire project lifecycle – from initial contracts and scheduling to invoicing, material coordination, and daily communication – ensuring each detail is meticulously handled and each project, whether production or custom home build, progresses efficiently to a successful completion.",
+    description: "Business & Relations Director bridging office, field crews, and builder partners. Ashley manages the complete project lifecycle from contracts to completion, ensuring every detail is handled meticulously.",
     photo: "/assets/ashleypfp.JPG"
   },
   {
     name: "Shawn Pruitt",
     role: "Operations Manager",
     description: "As Operations Manager, Shawn draws upon over 25 years of plumbing and project management experience to guide Diversified Plumbing Services. A certified Master Plumber, Shawn's leadership is evident in his hands-on approach to every aspect of the business – from designing plumbing layouts and coordinating crews to meticulously overseeing site inspections and ensuring safety compliance. His focus on building strong relationships with clients and partners, coupled with his problem-solving skills and commitment to operational excellence, drives Diversified Plumbing's reputation for quality and reliability.",
+    description: "Operations Manager with 25+ years of plumbing and project management experience. Certified Master Plumber Shawn leads with a hands-on approach from design to safety compliance, building strong relationships and driving our reputation for quality.",
     photo: "/assets/ShawnPruitt.JPG"
   }
 ];
@@ -61,7 +64,7 @@ const OurTeam: React.FC = () => {
             </h1>
             
             <p className="text-gray-300 text-base sm:text-lg text-center max-w-3xl mx-auto mb-8 sm:mb-16 px-4 sm:px-0">
-              Our success is built on the dedication and expertise of our team members. Each brings unique skills and experience to deliver exceptional service to our clients.
+              Our success is built on team dedication and expertise. Each member brings unique skills to deliver exceptional service.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
@@ -108,7 +111,7 @@ const OurTeam: React.FC = () => {
             <ScrollReveal delay={400}>
               <div className="text-center mt-12 sm:mt-16">
                 <p className="text-gray-300 text-base sm:text-lg mb-4 sm:mb-6 px-4 sm:px-0">
-                  Ready to work with our expert team? Get in touch today.
+                  Ready to work with our expert team? Contact us today.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-3 sm:gap-4">
                   <button 
