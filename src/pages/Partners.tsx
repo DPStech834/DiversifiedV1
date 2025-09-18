@@ -118,7 +118,6 @@ const Partners: React.FC = () => {
                 }`}>
                   {result === "Form Submitted Successfully" 
                     ? "Thank you for your inquiry! We'll review your information and contact you within 24 hours to discuss partnership opportunities."
-                    ? "Thank you! We'll review your information and contact you within 24 hours about partnership opportunities."
                     : result}
                 </div>
               )}
