@@ -104,6 +104,18 @@ const newConstructionProjects = [
     title: "Plumbing System Layout",
     description: "Detailed plumbing system layout and installation for residential construction.",
     image: "/assets/project pictures/layout2.jpg"
+  },
+  {
+    id: 21,
+    title: "New Construction Plumbing",
+    description: "Professional plumbing installation in new construction project.",
+    image: "/assets/project pictures/PTIO9091.JPG"
+  },
+  {
+    id: 22,
+    title: "Construction Site Plumbing",
+    description: "Quality plumbing work during new home construction phase.",
+    image: "/assets/project pictures/QPHL9178.JPEG"
   }
 ];
 
