@@ -280,7 +280,7 @@ const Gallery: React.FC = () => {
               <span className="text-primary-500">Gallery</span>
             </h1>
             <p className="text-gray-300 max-w-2xl mx-auto">
-              Take a look at some of our recent work across residential and commercial properties.
+              Take a look at some of our recent new construction and custom home projects showcasing our craftsmanship and attention to detail.
             </p>
           </div>
         </ScrollReveal>
