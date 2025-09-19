@@ -89,7 +89,7 @@ const Testimonials: React.FC = () => {
               <span className="text-white"> Say</span>
             </h2>
             <p className="text-gray-300 max-w-2xl mx-auto text-sm sm:text-base px-4 sm:px-0">
-              Here's what our satisfied customers say about our services.
+              Don't just take our word for it. Here's what our satisfied customers have to say about our services.
             </p>
           </div>
         </ScrollReveal>

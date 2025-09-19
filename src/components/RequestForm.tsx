@@ -47,7 +47,7 @@ const RequestForm: React.FC = () => {
                 <span className="text-primary-500">Service</span>
               </h2>
               <p className="text-gray-300 mb-6 md:mb-8 text-sm md:text-base">
-                Schedule service or request a quote. Our team will contact you promptly.
+                Fill out the form below to schedule a service appointment or request a quote. Our team will get back to you as soon as possible.
               </p>
               
               <div className="space-y-4 md:space-y-6">

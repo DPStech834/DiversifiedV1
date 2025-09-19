@@ -72,7 +72,7 @@ const Partners: React.FC = () => {
             </h1>
             
             <p className="text-gray-300 text-lg max-w-3xl mx-auto mb-8">
-              Partner with us for residential construction projects. We specialize in working with builders to deliver quality solutions on time and within budget.
+              Partner with Diversified Plumbing Services for your residential construction projects. We specialize in working with builders to deliver quality plumbing solutions on time and within budget.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -81,7 +81,7 @@ const Partners: React.FC = () => {
                   <Building2 className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2 font-heading">Custom & Production Homes</h3>
-                <p className="text-gray-300">Expert in custom builds and production housing developments.</p>
+                <p className="text-gray-300">Expertise in both custom builds and production housing developments.</p>
               </div>
               
               <div className="metallic-card p-6 text-center">
@@ -89,7 +89,7 @@ const Partners: React.FC = () => {
                   <Calendar className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2 font-heading">Reliable Scheduling</h3>
-                <p className="text-gray-300">Dependable timelines that keep builds on track.</p>
+                <p className="text-gray-300">Dependable project timelines that keep your builds on track.</p>
               </div>
               
               <div className="metallic-card p-6 text-center">
@@ -319,10 +319,10 @@ const Partners: React.FC = () => {
           <div className="text-center mt-12">
             <h3 className="text-2xl font-semibold mb-4 font-heading">Ready to Partner?</h3>
             <p className="text-gray-300 mb-6">
-              Call us to discuss upcoming projects and partnership opportunities.
+              Call us directly to discuss your upcoming projects and partnership opportunities.
             </p>
             <p className="text-gray-300 mb-6">
-              Ask to speak with Ashley Collins or Chris Cyphers.
+              Be sure to ask to speak with Ashley Collins or Chris Cyphers.
             </p>
             <button 
               onClick={() => setIsContactModalOpen(true)}

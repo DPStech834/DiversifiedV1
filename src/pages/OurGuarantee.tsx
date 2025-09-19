@@ -38,7 +38,7 @@ const OurGuarantee: React.FC = () => {
                       </div>
                       <div>
                         <h2 className="text-2xl font-bold mb-2 font-heading text-white">Our Promise: Quality, Commitment, and Care</h2>
-                        <p className="text-gray-300">Your peace of mind is our priority. Our experienced plumbers have served Dallas/Fort Worth since 2007 with 50+ years combined expertise. Complete satisfaction isn't just our goal—it's our promise.</p>
+                        <p className="text-gray-300">At Diversified Plumbing Services, your peace of mind is our priority. Our experienced plumbers have been proudly serving the Dallas/Fort Worth Metroplex since 2007, backed by a combined professional expertise of over 50 years. We stand by our workmanship and your complete satisfaction is not just our goal—it's our promise.</p>
                       </div>
                     </div>
                   </div>
@@ -54,7 +54,7 @@ const OurGuarantee: React.FC = () => {
                       </div>
                       <div>
                         <h2 className="text-2xl font-bold mb-2 font-heading text-white">Committed to a Greener Future</h2>
-                        <p className="text-gray-300">We care about the environment and believe every step counts. We proudly offer GREEN-certified plumbing products and solutions. Choosing us means choosing sustainability and long-term value.</p>
+                        <p className="text-gray-300">We care deeply about the environment and believe every step counts toward building a better future. That's why Diversified Plumbing Services proudly offers environmentally friendly, GREEN-certified plumbing products and solutions. Choosing us means you're choosing sustainability, responsibility, and long-term value for your home, your business, and our planet.</p>
                       </div>
                     </div>
                   </div>
@@ -70,7 +70,7 @@ const OurGuarantee: React.FC = () => {
                       </div>
                       <div>
                         <h2 className="text-2xl font-bold mb-2 font-heading text-white">Warranty Services You Can Trust</h2>
-                        <p className="text-gray-300">Our licensed professionals bring decades of hands-on experience. We've resolved every plumbing challenge imaginable and handle yours quickly, professionally, at fair prices. Your needs are fixed right the first time.</p>
+                        <p className="text-gray-300">Our licensed professionals bring decades of hands-on plumbing experience directly to you. We've encountered and resolved every plumbing challenge imaginable—and we're ready to handle yours quickly, professionally, and at a fair price. When you partner with Diversified Plumbing Services, your plumbing needs are fixed right the first time.</p>
                        <p className="text-primary-500 font-semibold mt-4">Responsible Master Plumber License M24068</p>
                       </div>
                     </div>
@@ -87,24 +87,24 @@ const OurGuarantee: React.FC = () => {
                       </div>
                       <div>
                         <h2 className="text-2xl font-bold mb-2 font-heading text-white">Outstanding Customer Service—Every Time</h2>
-                        <p className="text-gray-300 mb-6">Exceptional customer service is about actions, not promises. Our reliable team is ready to help when you need us most.</p>
+                        <p className="text-gray-300 mb-6">We believe exceptional customer service is about actions, not promises. Our team consists of reliable and dedicated professionals ready to help when you need us most.</p>
                         
                         <div className="grid md:grid-cols-2 gap-6">
                           <div className="bg-dark-800/50 p-4 rounded-lg">
                             <h3 className="font-semibold text-primary-500 mb-2">Rapid Response</h3>
-                            <p className="text-gray-300">Typically within 24 hours.</p>
+                            <p className="text-gray-300">Lead time typically within 24 hours.</p>
                           </div>
                           
                           <div className="bg-dark-800/50 p-4 rounded-lg">
                             <h3 className="font-semibold text-primary-500 mb-2">Emergency Services</h3>
-                            <p className="text-gray-300">24/7 for warranty customers.</p>
+                            <p className="text-gray-300">24/7 availability exclusively for warranty customers.</p>
                           </div>
                         </div>
                         
                         <div className="grid md:grid-cols-1 gap-6 mt-6">
                           <div className="bg-dark-800/50 p-4 rounded-lg">
                             <h3 className="font-semibold text-primary-500 mb-2">Convenient Scheduling</h3>
-                            <p className="text-gray-300">Monday–Friday, 8:00 AM – 4:30 PM.</p>
+                            <p className="text-gray-300">Regular appointments available Monday–Friday (8:00 AM – 4:30 PM).</p>
                           </div>
                         </div>
                       </div>
@@ -114,8 +114,8 @@ const OurGuarantee: React.FC = () => {
 
                 <div className="text-center pb-8">
                   <p className="text-xl text-gray-300 mb-6">Your trust has helped us build a reputation we're proud of, and we protect it every day with superior service and genuine care.</p>
-                  <p className="text-xl sm:text-2xl font-bold text-primary-500 mb-6 sm:mb-8 font-heading">Dependable Plumbing. Exceptional Service. Guaranteed.</p>
-                  <p className="text-base sm:text-lg text-gray-300 mb-4 sm:mb-6">Let us earn your trust. Call us today.</p>
+                  <p className="text-2xl font-bold text-primary-500 mb-8 font-heading">Dependable Plumbing. Exceptional Service. Guaranteed.</p>
+                  <p className="text-lg text-gray-300 mb-6">Let us earn your trust. Call us today.</p>
                   <button 
                     onClick={() => setIsContactModalOpen(true)}
                     className="btn btn-primary inline-flex items-center gap-2"

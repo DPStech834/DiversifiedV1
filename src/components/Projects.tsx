@@ -73,7 +73,7 @@ const Projects: React.FC = () => {
                 <span className="text-primary-500">Projects</span>
               </h2>
               <p className="text-gray-300 max-w-2xl mx-auto text-sm sm:text-base px-4 sm:px-0">
-                Recent work showcasing quality craftsmanship and attention to detail.
+                Take a look at some of our recent work showcasing quality craftsmanship and attention to detail.
               </p>
             </div>
           </ScrollReveal>
@@ -113,7 +113,7 @@ const Projects: React.FC = () => {
           <ScrollReveal delay={400}>
             <div className="text-center">
               <p className="text-gray-300 mb-4 sm:mb-6 text-sm sm:text-base px-4 sm:px-0">
-                Want to see more? Check out our complete project gallery.
+                Want to see more of our work? Check out our complete project gallery.
               </p>
               <button 
                 onClick={handleViewGallery}

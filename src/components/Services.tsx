@@ -13,58 +13,58 @@ const services = [
   {
     id: 1,
     title: "New Residential Construction",
-    description: "Expert custom home construction and residential builds with premium plumbing solutions tailored to your needs.",
+    description: "Specialized expertise in custom home construction and residential builds, delivering premium plumbing solutions tailored to your unique specifications.",
     icon: Home,
-    details: "Building a new home? We partner with homeowners and builders to design complete plumbing systems built to last. From underground to final trim, our work is clean, code-compliant, and crafted with care."
+    details: "Building a new home? We partner with homeowners and builders to design and install complete plumbing systems that are built to last. From underground to final trim, our work is clean, code-compliant, and crafted with care — ensuring your dream home flows smoothly from the start."
   },
   {
     id: 2,
     title: "Faucet & Sink Installation",
-    description: "Professional faucet and sink installation for kitchens, bathrooms, and utility areas.",
+    description: "Professional installation and replacement of faucets and sinks for kitchens, bathrooms, and utility areas.",
     icon: Faucet,
-    details: "Transform your kitchen or bathroom with stylish sinks and faucets. We work with trusted brands like Kohler, Moen, and Delta for long-term performance and water efficiency."
+    details: "A stylish sink or faucet can transform your kitchen or bathroom. We work with trusted brands like Kohler, Moen, and Delta, and every install is done with long-term performance and water efficiency in mind. Trust us for sleek style, smart savings, and seamless function."
   },
   {
     id: 3,
     title: "Residential Service and Repairs",
-    description: "Professional residential repairs with minimal disruption to your daily routine.",
+    description: "Professional repair services for residential properties, ensuring minimal disruption to your daily routine.",
     icon: Wrench,
-    details: "Leaky faucets, strange noises, low water pressure — we've fixed it all. Our team handles small repairs to major fixes with promptness and professionalism."
+    details: "Leaky faucets, strange noises, low water pressure — we've seen (and fixed) it all. Our residential service team handles everything from small repairs to major fixes with promptness and professionalism. We keep your home running right, so you can focus on what matters most."
   },
   {
     id: 4,
     title: "Advanced Drain Cleaning & Camera Diagnostics",
-    description: "Advanced diagnostic equipment and cleaning techniques to resolve drainage issues efficiently.",
+    description: "State-of-the-art diagnostic equipment and cleaning techniques to identify and resolve drainage issues efficiently.",
     icon: Camera,
-    details: "Slow drains are early warning signs. Our video inspections and precision cleaning tools remove stubborn clogs before they become bigger issues."
+    details: "Slow drains? We see them as early warning signs. Our video inspections and precision cleaning tools remove stubborn clogs before they become bigger issues. We restore flow, prevent backups, and keep your plumbing healthy from the inside out."
   },
   {
     id: 5,
     title: "Water Heater Repair & Installation",
-    description: "Expert water heater repair, replacement, and energy-efficient installations for reliable hot water.",
+    description: "Expert water heater services including repair, replacement, and installation of energy-efficient units for reliable hot water supply.",
     icon: Zap,
-    details: "Cold showers? Not on our watch. We offer reliable repairs and energy-efficient tankless water heaters to ensure your mornings start warm."
+    details: "Cold showers? Not on our watch. Whether you need a quick fix or a new installation, we offer reliable repairs and top-tier energy-efficient tankless water heaters. We're here to ensure your mornings start warm — every time."
   },
   {
     id: 6,
     title: "Contractor Collaboration",
-    description: "Smart, cost-effective solutions through seamless collaboration with contractors and builders.",
+    description: "Smart, cost-effective solutions through seamless collaboration with contractors and building professionals.",
     icon: Users,
-    details: "We work with contractors, not just for them. Our seamless communication and quality commitment make us a trusted partner from custom builds to production homes."
+    details: "We don't just work for contractors — we work with them. Our seamless communication, schedule coordination, and commitment to quality make us a trusted partner on every job site. From custom builds to production homes, we bring the reliability and responsiveness contractors depend on."
   },
   {
     id: 7,
     title: "System Certification & Testing",
-    description: "Comprehensive code-compliant certification and testing to ensure safety and reliability.",
+    description: "Comprehensive code-compliant system certification and testing to ensure safety and reliability.",
     icon: ClipboardCheck,
-    details: "No guesswork with compliance and safety. Our certified testing ensures your system meets all standards. From pressure checks to backflow testing, we keep you ahead of inspections."
+    details: "When it comes to compliance and safety, there's no room for guesswork. Our certified testing ensures your plumbing system meets all local, state, and industry standards. From pressure checks to backflow testing, we help you stay ahead of inspections and ensure everything is running just as it should — safe, sound, and fully certified."
   },
   {
     id: 8,
     title: "Toilet Repair & Installation",
-    description: "Complete toilet repair, replacement, and installation for reliable bathroom functionality.",
+    description: "Complete toilet services including repair, replacement, and installation for reliable bathroom functionality.",
     icon: WrenchAlt,
-    details: "From clogs to outdated toilets, we handle every issue with care. We offer water-saving options to reduce bills and environmental impact."
+    details: "From frustrating clogs to outdated toilets, our team handles every issue with care and accuracy. We also offer water-saving toilet options to help reduce your bills and environmental impact. Count on us for lasting repairs and clean, efficient installs."
   },
 ];
 

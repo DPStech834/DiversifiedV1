@@ -70,7 +70,7 @@ const Careers: React.FC = () => {
             </h1>
             
             <p className="text-gray-300 text-lg max-w-3xl mx-auto mb-8">
-              Skilled plumber seeking a team that values quality craftsmanship and growth? We're always looking for dedicated professionals to join our family.
+              Are you a skilled plumber looking to join a team that values quality craftsmanship and professional growth? Diversified Plumbing Services is always looking for dedicated professionals to join our family.
             </p>
 
             <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -79,7 +79,7 @@ const Careers: React.FC = () => {
                   <Briefcase className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2 font-heading">Professional Growth</h3>
-                <p className="text-gray-300">Advance your skills and career in a supportive environment.</p>
+                <p className="text-gray-300">Opportunities to advance your skills and career in a supportive environment.</p>
               </div>
               
               <div className="metallic-card p-6 text-center">
@@ -87,7 +87,7 @@ const Careers: React.FC = () => {
                   <GraduationCap className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2 font-heading">Continuous Learning</h3>
-                <p className="text-gray-300">Stay current with latest plumbing technologies and techniques.</p>
+                <p className="text-gray-300">Stay current with the latest plumbing technologies and techniques.</p>
               </div>
               
               <div className="metallic-card p-6 text-center">
@@ -95,7 +95,7 @@ const Careers: React.FC = () => {
                   <User className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2 font-heading">Team Environment</h3>
-                <p className="text-gray-300">Work with experienced professionals in a collaborative setting.</p>
+                <p className="text-gray-300">Work alongside experienced professionals in a collaborative setting.</p>
               </div>
             </div>
           </div>
@@ -115,7 +115,7 @@ const Careers: React.FC = () => {
                     : "bg-primary-900/30 border border-primary-700 text-primary-100"
                 }`}>
                   {result === "Form Submitted Successfully" 
-                    ? "Thank you! We'll review your application and contact you if there's a good fit."
+                    ? "Thank you for your application! We'll review your information and contact you if there's a good fit for our team."
                     : result}
                 </div>
               )}
