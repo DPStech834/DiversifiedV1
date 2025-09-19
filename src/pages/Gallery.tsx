@@ -113,7 +113,7 @@ const newConstructionProjects = [
   },
   {
     id: 22,
-    title: "Construction Site Plumbing",
+    title: "Top Out Phase",
     description: "Quality plumbing work during new home construction phase.",
     image: "/assets/project pictures/QPHL9178.JPEG"
   }
