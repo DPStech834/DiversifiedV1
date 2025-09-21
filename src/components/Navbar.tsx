@@ -76,7 +76,7 @@ const Navbar: React.FC = () => {
             Services
           </button>
           <Link to="/partners" className="text-gray-200 hover:text-primary-500 transition-colors font-medium">
-            Partners
+            Builder Partnerships
           </Link>
           <button 
             onClick={() => navigate('/gallery')}
@@ -156,7 +156,7 @@ const Navbar: React.FC = () => {
             className="block py-2 text-gray-200 hover:text-primary-500 transition-colors"
             onClick={() => setIsMenuOpen(false)}
           >
-            Partners
+            Builder Partnerships
           </Link>
           <button 
             onClick={() => { navigate('/gallery'); setIsMenuOpen(false); }}
