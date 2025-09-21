@@ -67,7 +67,7 @@ const OurStory: React.FC = () => {
                 </h2>
                 
                 <p className="text-xl font-medium text-white mb-6">
-                  We are a tight-knit team of qualified professionals with a shared mission: to deliver high-quality residential and small commercial plumbing services with precision, integrity, and care. From initial planning to final installation, we manage each job with the kind of attention to detail that turns first-time clients into lifelong customers.
+                  We are a tight-knit team of qualified professionals with a shared mission: to deliver high-quality plumbing services for custom and new construction homes with precision, integrity, and care. From initial planning to final installation, we manage each job with the kind of attention to detail that turns first-time clients into lifelong customers.
                 </p>
                 
                 <p className="text-xl font-medium text-white mb-6">
