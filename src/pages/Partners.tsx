@@ -62,11 +62,10 @@ const Partners: React.FC = () => {
   };
 
   return (
-    <div className="pt-28 pb-20 min-h-screen bg-dark-900">
+    <div className="pt-28 pb-20 min-h-screen bg-dark-900 relative z-10">
       <div className="container-custom">
-        <ScrollReveal>
           <div className="text-center mb-12">
-            <h1 className="text-4xl md:text-5xl mb-8 font-['Dancing_Script']">
+            <h1 className="text-4xl md:text-5xl mb-8 font-['Dancing_Script'] text-white">
               <span className="text-white">Builder </span>
               <span className="text-primary-500">Partnership</span>
             </h1>
@@ -80,7 +79,7 @@ const Partners: React.FC = () => {
                 <div className="bg-primary-600 rounded-full p-4 w-16 h-16 mx-auto mb-4">
                   <Building2 className="w-8 h-8 text-white" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2 font-heading">Custom & Production Homes</h3>
+                <h3 className="text-xl font-semibold mb-2 font-heading text-white">Custom & Production Homes</h3>
                 <p className="text-gray-300">Expertise in both custom builds and production housing developments.</p>
               </div>
               
@@ -88,7 +87,7 @@ const Partners: React.FC = () => {
                 <div className="bg-primary-600 rounded-full p-4 w-16 h-16 mx-auto mb-4">
                   <Calendar className="w-8 h-8 text-white" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2 font-heading">Reliable Scheduling</h3>
+                <h3 className="text-xl font-semibold mb-2 font-heading text-white">Reliable Scheduling</h3>
                 <p className="text-gray-300">Dependable project timelines that keep your builds on track.</p>
               </div>
               
@@ -96,17 +95,15 @@ const Partners: React.FC = () => {
                 <div className="bg-primary-600 rounded-full p-4 w-16 h-16 mx-auto mb-4">
                   <Users className="w-8 h-8 text-white" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2 font-heading">Dedicated Support</h3>
+                <h3 className="text-xl font-semibold mb-2 font-heading text-white">Dedicated Support</h3>
                 <p className="text-gray-300">Direct communication and project management for seamless collaboration.</p>
               </div>
             </div>
           </div>
-        </ScrollReveal>
 
-        <ScrollReveal delay={200}>
           <div className="max-w-3xl mx-auto">
             <div className="metallic-card p-6 md:p-8">
-              <h2 className="text-2xl font-semibold mb-6 font-heading">Builder Partnership Inquiry</h2>
+              <h2 className="text-2xl font-semibold mb-6 font-heading text-white">Builder Partnership Inquiry</h2>
               
               {result && (
                 <div className={`rounded-md p-4 mb-6 ${
@@ -313,11 +310,9 @@ const Partners: React.FC = () => {
               </form>
             </div>
           </div>
-        </ScrollReveal>
 
-        <ScrollReveal delay={400}>
           <div className="text-center mt-12">
-            <h3 className="text-2xl font-semibold mb-4 font-heading">Ready to Partner?</h3>
+            <h3 className="text-2xl font-semibold mb-4 font-heading text-white">Ready to Partner?</h3>
             <p className="text-gray-300 mb-6">
               Call us directly to discuss your upcoming projects and partnership opportunities.
             </p>
@@ -332,7 +327,6 @@ const Partners: React.FC = () => {
               Call (817) 439-2488
             </button>
           </div>
-        </ScrollReveal>
         
         <ContactModal 
           isOpen={isContactModalOpen} 
