@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Spline from '@splinetool/react-spline';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
@@ -45,7 +45,7 @@ function App() {
             <Route path="/our-guarantee" element={<OurGuarantee />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/partners" element={<Partners />} />
-            <Route path="/builder-partnerships" element={<Partners />} />
+            <Route path="/builder-partnerships" element={<Navigate to="/partners" replace />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/" element={
               <main>
