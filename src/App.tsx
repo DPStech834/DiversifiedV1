@@ -45,6 +45,7 @@ function App() {
             <Route path="/our-guarantee" element={<OurGuarantee />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/partners" element={<Partners />} />
+            <Route path="/builder-partnerships" element={<Partners />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/" element={
               <main>
