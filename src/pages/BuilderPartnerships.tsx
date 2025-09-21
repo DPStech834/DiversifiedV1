@@ -14,7 +14,7 @@ const BuilderPartnerships: React.FC = () => {
   }, []);
 
   const handlePartnershipInquiry = () => {
-    navigate('/partners');
+    navigate('/builder-partnerships');
   };
 
   return (
