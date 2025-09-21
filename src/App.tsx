@@ -16,7 +16,6 @@ import Careers from './pages/Careers';
 import OurGuarantee from './pages/OurGuarantee';
 import Gallery from './pages/Gallery';
 import Partners from './pages/Partners';
-import BuilderPartnerships from './pages/BuilderPartnerships';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 
 function App() {
@@ -46,7 +45,6 @@ function App() {
             <Route path="/our-guarantee" element={<OurGuarantee />} />
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/partners" element={<Partners />} />
-            <Route path="/builder-partnerships" element={<BuilderPartnerships />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/" element={
               <main>
