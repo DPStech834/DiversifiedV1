@@ -103,7 +103,8 @@ const Partners: React.FC = () => {
           </div>
         </ScrollReveal>
 
-        <div className="max-w-3xl mx-auto">
+        <ScrollReveal delay={200}>
+          <div className="max-w-3xl mx-auto">
             <div className="metallic-card p-6 md:p-8">
               <h2 className="text-2xl font-semibold mb-6 font-heading">Builder Partnership Inquiry</h2>
               
@@ -311,7 +312,8 @@ const Partners: React.FC = () => {
                 </button>
               </form>
             </div>
-        </div>
+          </div>
+        </ScrollReveal>
 
         <ScrollReveal delay={400}>
           <div className="text-center mt-12">
