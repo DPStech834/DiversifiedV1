@@ -75,8 +75,8 @@ const Navbar: React.FC = () => {
           >
             Services
           </button>
-          <Link to="/partners" className="text-gray-200 hover:text-primary-500 transition-colors font-medium">
-            Builder Partnerships
+          <Link 
+            to="/partners"
           </Link>
           <button 
             onClick={() => navigate('/gallery')}
