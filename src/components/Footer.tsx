@@ -157,6 +157,26 @@ const Footer: React.FC<FooterProps> = ({ onServiceClick }) => {
                 </a>
               </li>
             </ul>
+            
+            <div className="mt-6 pt-4 border-t border-dark-700">
+              <p className="text-gray-400 text-sm mb-2">
+                Regulated by the Texas State Board of Plumbing Examiners
+              </p>
+              <div className="text-gray-400 text-xs space-y-1">
+                <p>P.O. Box 4200, Austin, TX 78765-4200</p>
+                <p>Phone: (512) 936-5200</p>
+                <p>
+                  Website: <a 
+                    href="https://tsbpe.texas.gov" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="hover:text-primary-500 transition-colors"
+                  >
+                    tsbpe.texas.gov
+                  </a>
+                </p>
+              </div>
+            </div>
           </div>
         </div>
         
