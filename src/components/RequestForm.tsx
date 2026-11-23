@@ -10,7 +10,6 @@ const RequestForm: React.FC = () => {
     setResult("Sending....");
     const formData = new FormData(event.target as HTMLFormElement);
 
-    formData.append("access_key", "7e3895d2-0351-47c8-96dd-33c91b541ee5");
     formData.append("access_key", "861b8109-5f8f-4215-b9e8-97cfe06ac1b4");
     formData.append("subject", "New Service Request");
     formData.append("from_name", "Company Website");
